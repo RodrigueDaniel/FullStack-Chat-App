@@ -17,12 +17,9 @@ A real-time chat application built using **React**, **WebSocket**, **Node.js**, 
 |----------|---------|---------|----------|------------|
 | React    | Node.js | Tailwind CSS | WebSocket | Express, Vite |
 
-## 📸 Screenshots
-
-> *(Optional: Add screenshots here, e.g. `assets/chat-ui.png`)*
 
 ## 📁 Project Structure
-
+```
 chat-app/
 │
 ├── client/ # React frontend
@@ -36,6 +33,7 @@ chat-app/
 │
 ├── package.json
 └── README.md
+```
 
 
 ## 🧑‍💻 Getting Started
