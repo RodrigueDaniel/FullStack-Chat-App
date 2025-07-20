@@ -12,7 +12,7 @@ import { app, server } from "./lib/socket.js";
 
 // Setup __dirname equivalent in ES module
 const __filename = fileURLToPath(import.meta.url);
-const _dirname = path.dirname(__filename);
+const __dirname = path.dirname(__filename);
 
 dotenv.config();
 const PORT = process.env.PORT || 3000;
